@@ -1,4 +1,4 @@
-I am moonfight, a very beginner dev that is currently learning how to code
+I am moonfight, a very beginner dev that is currently learning how to code. I am learning using Sololearn, a duolingo like app for learning programming
 
 languages: extreme basics of python
 
